@@ -1,0 +1,29 @@
+{
+  "name": "only-react",
+  "version": "1.0.0",
+  "description": "implementation ",
+
+  "scripts": {
+    "test": "zest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit2775/first-react-project-.git"
+  },
+  "keywords": [
+    "ROHIT"
+  ],
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit2775/first-react-project-/issues"
+  },
+  "homepage": "https://github.com/rohit2775/first-react-project-#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
