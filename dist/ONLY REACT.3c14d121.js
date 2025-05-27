@@ -702,6 +702,7 @@ const Header = ()=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "nav-item",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
+                    className: "ul",
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "CONTRIBUTE"
@@ -718,22 +719,42 @@ const Header = ()=>{
                             columnNumber: 17
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            children: "MY CONTRIBUTIONS"
+                            children: "MY CONTRIBUTIONS "
                         }, void 0, false, {
                             fileName: "script.js",
                             lineNumber: 18,
                             columnNumber: 17
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            children: "LogIn"
-                        }, void 0, false, {
+                            children: [
+                                "   ",
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                                    href: "",
+                                    children: "LogIn"
+                                }, void 0, false, {
+                                    fileName: "script.js",
+                                    lineNumber: 19,
+                                    columnNumber: 24
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
                             fileName: "script.js",
                             lineNumber: 19,
                             columnNumber: 17
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            children: "SignUp"
-                        }, void 0, false, {
+                            children: [
+                                " ",
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                                    href: "",
+                                    children: "SignUp"
+                                }, void 0, false, {
+                                    fileName: "script.js",
+                                    lineNumber: 20,
+                                    columnNumber: 22
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
                             fileName: "script.js",
                             lineNumber: 20,
                             columnNumber: 17
@@ -757,17 +778,26 @@ const Header = ()=>{
     }, undefined);
 };
 _c = Header;
+const body = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "search"
+    }, void 0, false, {
+        fileName: "script.js",
+        lineNumber: 31,
+        columnNumber: 9
+    }, undefined);
+};
 const AppLayout = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "app",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Header, {}, void 0, false, {
             fileName: "script.js",
-            lineNumber: 31,
+            lineNumber: 39,
             columnNumber: 13
         }, undefined)
     }, void 0, false, {
         fileName: "script.js",
-        lineNumber: 30,
+        lineNumber: 38,
         columnNumber: 9
     }, undefined);
 };
@@ -775,7 +805,7 @@ _c1 = AppLayout;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
     fileName: "script.js",
-    lineNumber: 36,
+    lineNumber: 44,
     columnNumber: 13
 }, undefined));
 var _c, _c1;

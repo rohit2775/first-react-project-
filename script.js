@@ -12,18 +12,26 @@ const Header = ()=> {
            </div>
          
          <div className="nav-item"> 
-            <ul>
+            <ul className="ul">
                 <li>CONTRIBUTE</li>
                 <li>BUILD</li>
-                <li>MY CONTRIBUTIONS</li>
-                <li>LogIn</li>
-                <li>SignUp</li>
+                <li>MY CONTRIBUTIONS </li>
+                <li>   <a href="">LogIn</a></li>
+                <li> <a href="">SignUp</a></li>
             </ul>
          </div>
 
      </div>
     )
 }
+
+
+const body =()=> {
+    return(
+        <div className="search"></div>
+    )
+}
+
 
 const AppLayout = () => {
     return (

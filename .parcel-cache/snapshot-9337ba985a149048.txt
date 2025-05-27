@@ -1,4 +1,4 @@
-3595
+3598
 94C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\font-variant-numeric.js133928349195071898 0
 80C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\feature-flags\lib\types.d.ts133928349187551905 0
 92C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\cjs\_ts_add_disposable_resource.cjs133928349190951901 0
@@ -17,7 +17,7 @@
 81C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\runtime-js\src\helpers\worker133928349189871906 1
 54C:\W REACT LEARNING\ONLY REACT\node_modules\is-extglob133928349186381903 1
 75C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\regions\IT.js133928349196111886 0
-35C:\W REACT LEARNING\ONLY REACT\dist133928351150859257 1
+35C:\W REACT LEARNING\ONLY REACT\dist133928421124946929 1
 93C:\W REACT LEARNING\ONLY REACT\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133928349187671920 0
 80C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\codeframe\test\fixtures\a.js133928349186011892 0
 68C:\W REACT LEARNING\ONLY REACT\node_modules\node-addon-api\README.md133928349189091910 0
@@ -28,9 +28,10 @@
 85C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\error-overlay\src\utils\parser.js133928349189031897 0
 64C:\W REACT LEARNING\ONLY REACT\node_modules\tslib\tslib.es6.html133928349185551915 0
 75C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\regions\MK.js133928349196751890 0
-41C:\W REACT LEARNING\ONLY REACT\index.html133928347625680193 0
+41C:\W REACT LEARNING\ONLY REACT\index.html133928416454669217 0
+40C:\W REACT LEARNING\ONLY REACT\style.css133928420312926878 0
 72C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\cache\lib\types.d.ts133928349188561940 0
-40C:\W REACT LEARNING\ONLY REACT\script.js133928351149756717 0
+40C:\W REACT LEARNING\ONLY REACT\script.js133928421123666768 0
 79C:\W REACT LEARNING\ONLY REACT\node_modules\type-fest\source\literal-union.d.ts133928349188991899 0
 75C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\regions\ER.js133928349194551908 0
 101C:\W REACT LEARNING\ONLY REACT\node_modules\scheduler\cjs\scheduler-unstable_post_task.development.js133928349877632202 0
@@ -39,8 +40,6 @@
 48C:\W REACT LEARNING\ONLY REACT\package-lock.json133928349878612805 0
 89C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\esm\_class_private_method_get.js133928349191581900 0
 65C:\W REACT LEARNING\ONLY REACT\node_modules\lmdb\rollup.config.js133928349191951894 0
-90C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js133928349199151918 0
-53C:\W REACT LEARNING\ONLY REACT\node_modules\term-size133928349187881908 1
 43C:\W REACT LEARNING\ONLY REACT\node_modules133928349878292202 1
 89C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\_\_tagged_template_literal_loose133928349194421916 1
 48C:\W REACT LEARNING\ONLY REACT\node_modules\.bin133928349200191921 1
@@ -73,7 +72,7 @@
 120C:\W REACT LEARNING\ONLY REACT\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133928349200241901 0
 75C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\regions\PL.js133928349197271883 0
 62C:\W REACT LEARNING\ONLY REACT\node_modules\json5\package.json133928349188251907 0
-49C:\W REACT LEARNING\ONLY REACT\node_modules\@lmdb133928349876990829 1
+49C:\W REACT LEARNING\ONLY REACT\node_modules\@lmdb133928349878312303 1
 73C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\utils\src\debounce.js133928349188521945 0
 103C:\W REACT LEARNING\ONLY REACT\node_modules\react-dom\cjs\react-dom-server-legacy.browser.production.js133928349877662217 0
 78C:\W REACT LEARNING\ONLY REACT\node_modules\electron-to-chromium\versions.json133928349188491946 0
@@ -86,7 +85,7 @@
 61C:\W REACT LEARNING\ONLY REACT\node_modules\commander\typings133928349188551915 1
 99C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133928349194621909 0
 86C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\profiler\lib\SamplingProfiler.d.ts133928349188561940 0
-61C:\W REACT LEARNING\ONLY REACT\node_modules\@msgpackr-extract133928349876940834 1
+61C:\W REACT LEARNING\ONLY REACT\node_modules\@msgpackr-extract133928349878312303 1
 103C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor133928349192981915 1
 82C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\core\src\public\Environment.js133928349190921909 0
 84C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\source-map\dist\wasm-bindings.js133928349188861920 0
@@ -99,7 +98,7 @@
 49C:\W REACT LEARNING\ONLY REACT\node_modules\clone133928349187041903 1
 67C:\W REACT LEARNING\ONLY REACT\node_modules\semver\ranges\subset.js133928349190031909 0
 66C:\W REACT LEARNING\ONLY REACT\node_modules\detect-libc\.npmignore133928349185841894 0
-48C:\W REACT LEARNING\ONLY REACT\node_modules\@swc133928349876990829 1
+48C:\W REACT LEARNING\ONLY REACT\node_modules\@swc133928349878302205 1
 77C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\cjs\_export_star.cjs133928349190061896 0
 68C:\W REACT LEARNING\ONLY REACT\node_modules\lmdb\src\compression.cpp133928349191111905 0
 68C:\W REACT LEARNING\ONLY REACT\node_modules\tslib\modules\index.d.ts133928349188091902 0
@@ -272,6 +271,8 @@
 70C:\W REACT LEARNING\ONLY REACT\node_modules\picomatch\lib\constants.js133928349185901917 0
 69C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\transformer-image133928349187501915 1
 55C:\W REACT LEARNING\ONLY REACT\node_modules\safe-buffer133928349186801902 1
+90C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js133928349199151918 0
+53C:\W REACT LEARNING\ONLY REACT\node_modules\term-size133928349187881908 1
 92C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\_\_to_consumable_array\package.json133928349194521917 0
 58C:\W REACT LEARNING\ONLY REACT\node_modules\to-regex-range133928349186381903 1
 75C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\regions\SY.js133928349198261895 0
@@ -1421,7 +1422,7 @@
 86C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\offline-apps.js133928349197072018 0
 79C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\webxr.js133928349199621912 0
 101C:\W REACT LEARNING\ONLY REACT\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133928349190851911 0
-46C:\W REACT LEARNING\ONLY REACT\dist\index.html133928350738675518 0
+46C:\W REACT LEARNING\ONLY REACT\dist\index.html133928420224035277 0
 101C:\W REACT LEARNING\ONLY REACT\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133928349190941912 0
 103C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133928349190351945 0
 108C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json133928349193351890 0
@@ -1437,6 +1438,7 @@
 95C:\W REACT LEARNING\ONLY REACT\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133928349189991902 0
 89C:\W REACT LEARNING\ONLY REACT\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133928349186671901 0
 69C:\W REACT LEARNING\ONLY REACT\node_modules\dotenv\lib\env-options.js133928349186571907 0
+63C:\W REACT LEARNING\ONLY REACT\dist\ONLY REACT.3a01df49.css.map133928421043492934 0
 87C:\W REACT LEARNING\ONLY REACT\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133928349188141931 0
 95C:\W REACT LEARNING\ONLY REACT\node_modules\caniuse-lite\data\features\font-family-system-ui.js133928349194971883 0
 84C:\W REACT LEARNING\ONLY REACT\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133928349192261907 1
@@ -3592,5 +3594,6 @@
 85C:\W REACT LEARNING\ONLY REACT\node_modules\.bin\node-gyp-build-optional-packages.ps1133928349200191921 0
 59C:\W REACT LEARNING\ONLY REACT\node_modules\.bin\parcel.cmd133928349200201915 0
 71C:\W REACT LEARNING\ONLY REACT\node_modules\.bin\update-browserslist-db133928349200201915 0
-58C:\W REACT LEARNING\ONLY REACT\dist\ONLY REACT.3c14d121.js133928351150799271 0
-62C:\W REACT LEARNING\ONLY REACT\dist\ONLY REACT.3c14d121.js.map133928351150849250 0
+59C:\W REACT LEARNING\ONLY REACT\dist\ONLY REACT.3a01df49.css133928421043418265 0
+58C:\W REACT LEARNING\ONLY REACT\dist\ONLY REACT.3c14d121.js133928421124863918 0
+62C:\W REACT LEARNING\ONLY REACT\dist\ONLY REACT.3c14d121.js.map133928421124931054 0
