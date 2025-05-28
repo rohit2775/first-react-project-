@@ -26,17 +26,39 @@ const Header = ()=> {
 }
 
 
-const body =()=> {
+const Body =()=> {
     return(
-        <div className="search"></div>
+      <div className="body">
+          <div className="search"> 
+            <input type="text"></input>
+            <button type="submit"> submit </button>
+          </div>
+
+        <div className="build-container"> 
+            <BodyCards/>
+        </div>
+      </div>
     )
+    
 }
 
+const BodyCards = ()=>{
+    return(
+        <div className="body-card">
+            <img className="image" src="https://images.unsplash.com/photo-1607706189992-eae578626c86?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww"></img>
+            <h3 className="h3">Frontend</h3>
+            <h3 className="h3">Build Your Own</h3>
+            <h3 className="h3">contribute</h3>
+            <h3 className="h3">live :: 1.3k</h3>
 
+        </div>
+    )
+}
 const AppLayout = () => {
     return (
         <div className="app" >
             <Header/>
+            <Body/>
              </div>
     )
 }
