@@ -1,26 +1,24 @@
 {
-  "name": "only-react",
+  "name": "first-react-project-",
   "version": "1.0.0",
-  "description": "implementation ",
+  "description": "password manager ",
+
   "scripts": {
-    "test": "zest"
+    "test": "zest "
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rohit2775/first-react-project-.git"
   },
   "keywords": [
-    "ROHIT"
+    "rohit"
   ],
-  "author": "Rohit",
+  "author": "rohit gorai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rohit2775/first-react-project-/issues"
   },
   "homepage": "https://github.com/rohit2775/first-react-project-#readme",
-  "devDependencies": {
-    "parcel": "^2.15.2"
-  },
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
