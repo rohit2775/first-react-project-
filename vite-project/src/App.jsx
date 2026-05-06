@@ -1,8 +1,13 @@
-
-import './App.css'
-
+import Product from "./product"
+import "./App.css"
+import ProductTab from "./ProductTab"
 function App() {
-return <button>hello bhai </button>
+return (
+  <>
+<ProductTab/>
+
+  </>
+)
   
 }
 
