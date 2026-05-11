@@ -10,9 +10,10 @@ function ProductTab (){
   return (
     <>
     
-     <Product />
-    <Product  />
-     <Product  />
+     <Product title="macbook" />
+    <Product title="android" />
+     <Product title="samsung" />
+     <Product title="huweai" />
     </>
   )
 }

@@ -1,13 +1,17 @@
 
 import "./Product.css"
+import Price from "./Price"
 
-
-function Product ({title , price , features }){
-  let styles = { backgroundColor : price<3000? "blue": ""}
+function Product ({title}){
+  let oldPrice=["1233","34332","23234","23443"]
+  let newPrice=["99999","9999","99999","99999"]
   return(
     <div className="Product" >
 
-         <p> product</p>
+         <p> {title} </p>
+         <p> discription </p>
+          <Price />
+      
 
       
 
