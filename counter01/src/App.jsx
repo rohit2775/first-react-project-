@@ -6,13 +6,23 @@ import './App.css'
 
 function App() {
 
-
-  let count = 3 
+    const [count , setCount] = useState(3)
+   
+  // let count = 3 
 
  const addValue = ()=>{
+  
+  setCount(count+1)
   console.log('clicked', count);
-  count +=1
  }
+  
+ const removeValue =()=>{
+  setCount(count-1)
+    console.log('clicked', count);
+
+ }
+
+
   return (
     <>
     <h1>  hello rohit bhai </h1>
@@ -24,7 +34,9 @@ function App() {
    <br>
    
    </br>
-   <button> add value </button>
+   <button
+   onClick={removeValue}
+   > remove value </button>
     </>
   )
 }
