@@ -8,17 +8,31 @@ function App() {
 
     const [count , setCount] = useState(3)
    
-  // let count = 3 
+  
 
  const addValue = ()=>{
   
-  setCount(count+1)
+  if (count <=19 ){
+     setCount(count+1)
   console.log('clicked', count);
+  }
+  else{
+     
+    alert("cannot add more value ")
+
+  }
  }
   
  const removeValue =()=>{
-  setCount(count-1)
+
+  if (count > 0){
+ setCount(count-1)
     console.log('clicked', count);
+
+  }
+  else{
+    alert('removeable value reached ')
+  }
 
  }
 
