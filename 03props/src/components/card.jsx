@@ -1,7 +1,8 @@
 "use client";
 import { useState } from "react";
 
-export default function Card5() {
+export default function Card5(props) {
+
   const [isHovered, setIsHovered] = useState(false);
 
   return (
@@ -39,7 +40,8 @@ export default function Card5() {
 
           <p className="text-sm text-gray-400 leading-relaxed mb-6">
             Transform your data into actionable insights with our cutting-edge
-            analytics platform designed for modern teams.
+            analytics platform designed for modern teams.{props.username}
+           
           </p>
 
           <div className="flex items-center justify-between">
@@ -53,7 +55,7 @@ export default function Card5() {
             </div>
 
             <button className="px-4 py-2 bg-white hover:bg-gray-200 text-black text-sm rounded-lg transition-all duration-200 transform hover:scale-105">
-              Get Started
+              Get Started {props.btnText}
             </button>
           </div>
         </div>
